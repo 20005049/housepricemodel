@@ -38,7 +38,7 @@ Publish the website in the given URL.
     <title>House Price Prediction</title>
   </head>
   <body>    
-        <div class="jumbotron jumbotron-fluid" style="background-color:blue;">        
+        <div class="jumbotron jumbotron-fluid" style="background-color:orenge;">        
             <div class="container text-center">
             <h1>House Price Model Training</h1>
             <p class="lead">You can use this website to calculate your house price</p>
@@ -100,7 +100,7 @@ Publish the website in the given URL.
   </head>
   <body>
     
-        <div class="jumbotron jumbotron-fluid" style="background-color:greenyellow; ">
+        <div class="jumbotron jumbotron-fluid" style="background-color:aqua; ">
         
             <div class="container text-center">
             <h1>House Price Prediction</h1>
@@ -250,7 +250,7 @@ def HouseModelPrediction(request):
 
 ![output](./static/img/o1.png)
 
-![output](./static/img/o2.png)
+![output](./static/img/01.png)
 
 ## VALIDATION REPORT
 
